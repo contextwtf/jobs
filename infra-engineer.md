@@ -23,7 +23,7 @@ open source tool, [Lanyard](https://lanyard.org), opens up important off-chain
 data to decentralize allowlist mint information.
 
 We're an early stage startup that's raised $19,500,000 from investors like
-[Variant](https://variant.fun), [Dragonfly](https://dragonfly.xyz), and [Sam
+[Variant](https://variant.fund), [Dragonfly](https://dragonfly.xyz), and [Sam
 Altman](https://twitter.com/sama) to build the future of human readable web3.
 
 ### This role
