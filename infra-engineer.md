@@ -1,4 +1,4 @@
-### Infrastructure engineer
+# Senior infrastructure engineer
 
 We're interested in hiring a Senior Infrastructure Engineer to join Context to
 help us build mint.fun.

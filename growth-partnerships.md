@@ -1,4 +1,4 @@
-# Growth & Partnerships Lead
+# Growth & partnerships lead
 
 Context is hiring a Growth & Partnerships Lead to accelerate our flagship
 product, [mint.fun](http://mint.fun).
