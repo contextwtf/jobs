@@ -1,7 +1,5 @@
 # Open roles
 
-- [Growth & partnerships
-  lead](https://github.com/contextwtf/jobs/blob/main/growth-partnerships.md)
 - [Senior infrastructure
   engineer](https://github.com/contextwtf/jobs/blob/main/infra-engineer.md)
 
