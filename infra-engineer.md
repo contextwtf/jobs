@@ -44,7 +44,7 @@ What we're looking for:
 
 ### Benefits and compensation
 
-For this role, we're offering a salary range of $175-250K + generous equity. We
+For this role, we're offering a salary range of $175-$300K + generous equity. We
 also have benefits such as:
 
 - fully covered dental & health insurance for you and dependents
