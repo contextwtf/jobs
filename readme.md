@@ -1,9 +1,6 @@
 # Open roles
 
-- [Senior infrastructure
-  engineer](https://github.com/contextwtf/jobs/blob/main/infra-engineer.md)
-
-- [Senior product designer](https://github.com/contextwtf/jobs/blob/main/senior-product-designer.md)
+We currently have no public job openings. Please check back soon.
 
 # Context
 
