@@ -1,14 +1,17 @@
 # Open roles
 
-We currently have no public job openings. Please check back soon.
+- [Senior product
+  designer](https://github.com/contextwtf/jobs/blob/main/senior-product-designer.md)
 
 # Context
 
-Context is a company formed with the goal of making web3 more human.
+Context is a company formed with the goal of making web3 more fun and human.
 
-We build [mint.fun](https://mint.fun). [mint.fun](https://mint.fun) simplifies
-discovering and minting new NFTs by turning smart contracts into beautiful
-interfaces that make Ethereum more accessible to everyone.
+We are the founding team behind [mint.fun](https://mint.fun).
+[mint.fun](https://mint.fun) was acquired by Zora in 2024.
+
+We now work on [rug.fun](https://rug.fun) – a new way to launch tokens
+competitively onchain.
 
 Our small but passionate team is committed to delivering thoughtful products
 through rigorous engineering. We’ve raised $19,500,000 from
