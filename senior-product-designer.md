@@ -91,9 +91,9 @@ We also have benefits such as:
 
 ### Applying and our process
 
-To get started, please email [jobs@context.app](mailto:jobs@context.app) with a
-link to some code you are proud of. We're really excited to see your portfolio
-and prioritize applications that show a body of work.
+To get started, please email [rugdesigner@rug.fun](mailto:rugdesigner@rug.fun)
+with a link to your work. We're really excited to see your portfolio and prioritize
+applications that show a body of work.
 
 Once we get a chance to read your application, we'll move to a phone interview
 where we can discuss your background, work and what you want in a job. You'll
