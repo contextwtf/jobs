@@ -43,7 +43,7 @@ We also have benefits such as:
 - fully covered dental & health insurance for you and dependents
 - yearly offsites where you can meet the team in person
 - a hybrid/flex remote culture. Come into the SF office if you want to, or work
-  remotely
+  remotely (for North American and European time zones only).
 
 ### Applying and our process
 
