@@ -1,9 +1,6 @@
 # Open roles
 
-- [Senior product
-  engineer](https://github.com/contextwtf/jobs/blob/main/senior-product-engineer.md)
-- [Senior product
-  designer](https://github.com/contextwtf/jobs/blob/main/senior-product-designer.md)
+We currently are not hiring for any roles. Please check back later!
 
 # Context
 
