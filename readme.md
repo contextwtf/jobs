@@ -1,52 +1,49 @@
-# Context
+# Careers at Context
 
-Context is a company formed with the goal of making web3 more fun and human.
+At Context, our mission is to make web3 more fun. We’re best known for creating products like mint.fun, which was acquired by Zora in 2024, as well as meme.market and rug.fun.
 
-We are the founding team behind [mint.fun](https://mint.fun).
-[mint.fun](https://mint.fun) was acquired by Zora in 2024.
+With $19.5M in venture funding from industry leaders like Variant, Sam Altman, and Dragonfly, we’re focused on building new and creative on-chain market structures.
 
-Our small but passionate team is committed to delivering thoughtful products
-through rigorous engineering. We’ve raised $19,500,000 from
-[Variant](https://variant.fund), [Sam Altman](https://twitter.com/sama), and
-[Dragonfly](https://dragonfly.xyz) to create the best web3 products possible.
+Job Openings
 
-## Benefits
+**Senior protocol engineer**
 
-We offer:
+As a senior protocol engineer at Context, you’ll work with a small, cross-functional team of engineers and product designers to develop new on-chain market structures and bring those ideas to life.
 
-- competitive salary + equity
-- unlimited vacation
-- great health insurance
+This is a full-time role for candidates with the option to work remotely or from our New York City office.
 
-We are remote-first and are opening a NYC office in Q1 2025. We are currently
-open to hiring candidates in American time zones.
+_What you’ll be doing:_
 
-## Open roles
+- Researching & developing economic primitives that could be used in decentralized protocols
+- Designing and helping build scalable, secure on-chain market structures
+- Implementing your designs in Solidity
 
-We are hiring for the following roles:
+_We’re looking for someone who is:_
 
-### Protocol engineer
+- Fluent in how Automated Market Makers (AMMs) work, and excited to build on Uniswap v4
+- Able to model liquidity, slippage, impermanent loss, and evaluate tradeoffs holistically
+- Capable of building analytical models to validate your ideas, but also excited to contribute directly to the implementation of those ideas
+- Interested in working within the web3 space and open to learning new things as we experiment with new ideas
 
-We are building new onchain market structures. We are looking for a protocol
-researcher to help us research new economic primitives and bring them to life.
+_Compensation and Benefits_
 
-You are
+We offer competitive salary and benefits to support you in your role. Our compensation package includes:
 
-- fluent in how AMMs work
-- excited to build on Uniswap v4
-- ideally have a background in finance/math. You can model liquidity, slippage,
-  impermanent loss, and evaluate tradeoffs holistically
-- capable of building analytical models for your ideas but also excited to build
-  an implementation
+- $250,000 – $350,000 annual salary (based on experience)
+- Equity in the company
+- Comprehensive medical, dental, and vision coverage
+- One Medical: Access to virtual healthcare services
+- 401(k) retirement savings plan
+- Healthcare and dependent care flexible spending accounts
+- Generous vacation policy and 13 paid holidays each year
+- Twice-yearly team-building retreats
 
-Salary range: $175-350K depending on experience.
+_Referral Program_
 
-We are offering a $25,000 referral fee\* if someone introduces us to a protocol
-researcher we hire. If you refer someone, have them mention your name and email
-when they apply.
+Know someone who would be a great fit for this role? We’re offering a $25,000 referral fee for anyone who introduces us to a candidate we hire for this position. To refer someone, please have them mention your name and email when they apply.
 
-To apply please send a CV/resume and a link to something you’ve built to
-hiring-protocol@context.wtf. If we don’t respond, assume it’s a pass for now.
+Referral Fee Terms: Payment is made after the candidate has been with the company for one month. KYC and doxxing may be required to process the payment.
 
-\*Referral fee terms: Referral fee paid after 1 month of working with the
-candidate. Will require doxxing/KYC to process payment.
+_How to Apply_
+
+To apply, please send your CV/Resume and a link to something you’ve built (e.g., a GitHub repo or project demo) to hiring-protocol@context.wtf. If you don’t hear from us, assume we’ve decided to move forward with other candidates, but we’ll keep your information for future opportunities.
